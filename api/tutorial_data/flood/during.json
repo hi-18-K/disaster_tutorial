@@ -1,0 +1,13 @@
+{
+	"name": "flood", 
+    "when": "during", 
+    "do": {
+        "1": "Depending on where you are, the potential impact, and the warning time given for flooding, go to the safe location that you have identified. If you are not able to shelter in place or with family or friends and must go to a public shelter.",
+        "2": "If told to evacuate, do so immediately. Never drive around barricades. Local responders use them to safely direct traffic out of flooded areas.",
+        "3": "If you are sick and need medical attention, contact your healthcare provider for further care instructions and shelter in place, if possible.", 
+        "4": "Do not walk, swim or drive through flood waters!", 
+        "5": "Stay off bridges over fast-moving water. Fast-moving water can wash bridges away without warning.", 
+        "6": "If your car is trapped in rapidly moving water stay inside. If water is rising inside the car get on the roof.", 
+        "7": "If trapped in a building go to its highest level. Do not climb into a closed attic. You may become trapped by rising floodwater. Only get on the roof if necessary and once there signal for help."
+    }
+}

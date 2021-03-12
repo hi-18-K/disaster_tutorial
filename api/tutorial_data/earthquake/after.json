@@ -1,0 +1,14 @@
+{
+	"name": "earthquake", 
+    "when": "after", 
+    "do": {
+    	"?": "After an earthquake, there can be serious hazards such as damage to the building, leaking gas and water lines, or downed power lines.",
+
+    	"1": "Wash your hands with soap and water after holding on to commonly touched surfaces or objects. If you are unable to wash your hands, use hand sanitizer that contains at least 60 percent alcohol.",
+    	"2": "Expect aftershocks to follow the main shock of an earthquake. Be ready to Drop, Cover, and Hold On if you feel an aftershock.",
+    	"3": "If you are in a damaged building, go outside and quickly move away from the building. Do not enter damaged buildings.",
+    	"4": "If you are trapped, press SOS beakon and also add landmark identification of your location." ,
+    	"5": "Check yourself to see if you are hurt and help others if you have training. Learn how to be the help until help arrives.(https://community.fema.gov/until-help-arrives)",
+    	"6": "Once you are safe, pay attention to local news reports for emergency information and instructions via battery-operated radio, TV, social media or from cell phone text alerts." 
+	}
+}

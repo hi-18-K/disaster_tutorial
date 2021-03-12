@@ -1,0 +1,12 @@
+{
+	"name": "flood", 
+    "when": "after", 
+    "do": {
+        "1": "Listen to authorities for information and instructions. Return home only when authorities say it is safe.", 
+        "2": "Avoid driving except in emergencies.", 
+        "3": "Be aware that snakes and other animals may be in your house. Wear heavy work gloves, protective clothing, and boots during clean up. People with asthma and other lung conditions and/or immune suppression should not enter buildings with indoor water leaks or mold growth that can be seen or smelled. Children should not take part in disaster cleanup work.", 
+        "4": "Be aware of the risk of electrocution. Do not touch electrical equipment if it is wet or if you are standing in water. If it is safe to do so, turn off the electricity to prevent electric shock.", 
+        "5": "Avoid wading in floodwater, which can be contaminated and contain dangerous debris. Underground or downed power lines can also electrically charge the water. ", 
+        "6": "Use a generator or other gasoline-powered machinery ONLY outdoors and away from windows."
+    }
+}

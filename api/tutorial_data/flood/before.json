@@ -1,0 +1,13 @@
+{
+	"name": "flood", 
+    "when": "before", 
+    "do": {
+    	"0":"IF YOU ARE UNDER A FLOOD WARNING, FIND SAFE SHELTER RIGHT AWAY",
+    	"1": "Do not walk, swim or drive through flood waters. Turn Around, Don’t Drown!",
+    	"2": "Stay off of bridges over fast-moving water.",
+    	"3": "Depending on the type of flooding:", 
+    	"a": "Evacuate if told to do so.",
+    	"b": "Move to higher ground or a higher floor.",
+    	"c": "Stay where you are."
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"name": "earthquake", 
+    "when": "before", 
+    "do": {
+    	"0":"Practice Drop, Cover, and Hold On with family and coworkers.",
+    	"1": "Make an Emergency Plan: Create a family emergency communications plan that has an out-of-state contact. Plan where to meet if you get separated. Make a supply kit that includes enough food and water for several days, a flashlight, a fire extinguisher and a whistle.",
+    	"2": "Protect Your Home: Secure heavy items in your home like bookcases, refrigerators, televisions and objects that hang on walls. Store heavy and breakable objects on low shelves. Consider making improvements to your building to fix structural issues that could cause your building to collapse during an earthquake. Consider obtaining an earthquake insurance policy. A standard homeowner’s insurance policy() does not cover earthquake damage." 
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "disaster_tutorial",
+  "version": "1.0.0",
+  "description": "this is tutorial section of our sankatmochak project, intended to prepare and train people for upcoming disasters and hazards.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hi-18-K/disaster_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hi-18-K/disaster_tutorial/issues"
+  },
+  "homepage": "https://github.com/hi-18-K/disaster_tutorial#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "mongodb-uri": "^0.9.7",
+    "mongoose": "^5.12.0",
+    "serve-static": "^1.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
